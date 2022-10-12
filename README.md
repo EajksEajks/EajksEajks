@@ -2,4 +2,4 @@ My name is Eric (@EajksEajks), a product manager, a system architect, a design l
 
 - I’m currently working on a custom FPGA/GPU-accelerated K8s deployment for machine learning and edge computing.
 - I’m looking to collaborate on FPGA, C++, ASP.NET projects.
-- You can reach me at EajksEAjks Yahoo Com
+- You can reach me at EajksEajks Yahoo Com
